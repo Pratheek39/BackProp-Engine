@@ -1,0 +1,3 @@
+- The Best Model in my submission is a soft max model. Takes input of dimensions (n , 784)
+- run_spam_experiment.py and capstone_showdown.ipynb print all the relevant results on running them.
+- Please verify if the data set loads correctly in capstone_showdown.ipynb file . If it doesnt the first cell prints (200,100)
