@@ -28,7 +28,6 @@ Main project directory containing:
 - **`run_spam_experiment.py`** - Spam classification experiment and results
 
 - **`capstone_showdown.ipynb`** - Main notebook containing comprehensive results and demonstrations
-  - Expected dataset output: (200, 100)
   - Best model performance metrics
 
 ## Key Features
